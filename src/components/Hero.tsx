@@ -37,13 +37,13 @@ const Hero = () => {
                 View Projects
               </a>
               {/* Download CV Button */}
-              <a
+              {/* <a
                 href="/MyCV_Rudra (2).pdf" // <-- Path to your CV file
                 download
                 className="px-8 py-3 bg-green-600 text-white rounded-full hover:bg-green-700 transition-colors"
               >
                 Download CV
-              </a>
+              </a> */}
             </div>
           </motion.div>
 
