@@ -83,15 +83,15 @@ const Contact = () => {
             <div className="space-y-6">
               <div className="flex items-center text-gray-600 dark:text-gray-300">
                 <Mail className="w-6 h-6 mr-4" />
-                <span>prasadrudra279@gmail.com</span>
+                <span>k.anuragsahoo@gmail.com</span>
               </div>
               <div className="flex items-center text-gray-600 dark:text-gray-300">
                 <Phone className="w-6 h-6 mr-4" />
-                <span>+91 6370923986</span>
+                <span>+91 7609973546</span>
               </div>
               <div className="flex items-center text-gray-600 dark:text-gray-300">
                 <MapPin className="w-6 h-6 mr-4" />
-                <span>Kendrapara, Bhubaneswar, Odisha</span>
+                <span>Kendujhar, Bhubaneswar, Odisha</span>
               </div>
             </div>
           </motion.div>
