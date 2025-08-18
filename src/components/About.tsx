@@ -86,7 +86,7 @@ const About = () => {
             </p>
             {/* Download CV Button */}
               <a
-                href="/MyCV_Rudra (2).pdf" // <-- Path to your CV file
+                href="/Anurag cv.pdf" // <-- Path to your CV file
                 download
                 className="inline-block mt-6 px-10 py-4 bg-green-600 text-white font-semibold rounded-full shadow-md hover:bg-green-700 transition-all"
                 >
