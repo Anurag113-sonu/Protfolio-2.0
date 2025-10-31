@@ -2,6 +2,15 @@ import React from "react";
 import { motion } from "framer-motion";
 
 const certifications = [
+   {
+    year: "2025",
+    title: "SAP Certified Associate - Back-End Developer ",
+    issuer: "SAP",
+    description:
+      'Successfully completed the "SAP Certified Associate - Back-End Developer - ABAP Cloud certification," course by SAP in collaboration with Centurion University.',
+    tags: ["SAP", "ABAP"],
+    link: "https://www.credly.com/badges/9338cf28-6ccb-4786-90c7-1cf2f0045ef7/public_url",
+  },
   {
     year: "2025",
     title: "Basic to Advanced Data Structures and Algorithms",
