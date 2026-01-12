@@ -4,7 +4,16 @@ import { motion } from "framer-motion";
 const certifications = [
    {
     year: "2025",
-    title: "SAP Certified Associate - Back-End Developer ",
+    title: "SAP Certified Associate – Business Process Integration with SAP S/4HANA",
+    issuer: "SAP",
+    description:
+      'Successfully completed the "AP Certified Associate – Business Process Integration with SAP S/4HANA," course by SAP in collaboration with Centurion University.',
+    tags: ["SAP", "ABAP"],
+    link: "https://www.credly.com/badges/4072f27c-d36f-4414-b0c3-e3a1541121fa/public_url",
+  },
+   {
+    year: "2025",
+    title: "SAP Certified Associate - Back-End Developer - ABAP Cloud certification",
     issuer: "SAP",
     description:
       'Successfully completed the "SAP Certified Associate - Back-End Developer - ABAP Cloud certification," course by SAP in collaboration with Centurion University.',

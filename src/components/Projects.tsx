@@ -4,9 +4,9 @@ import { Github, ExternalLink } from 'lucide-react';
 
 const projects = [
   {
-    title: 'AI-ChatBot',
+    title: 'Anurag-AI',
     description: 'AI-powered chatbot using the Gemini API for seamless interactions.',
-    image: 'chatbot.png',
+    image: 'AI.png',
     github: 'https://github.com/Anurag113-sonu/Anurag-AI',
     demo: 'https://anurag-ai.vercel.app/',
     tags: ['React', 'Node.js', 'Gemini API'],
@@ -28,12 +28,12 @@ const projects = [
     // tags: ['Shell', 'Python', 'Gemini API'],
   },
   {
-    title: 'Social Media App',
-    description: 'A social media application that allows users to connect, share posts, and interact with each other.',
-    image: 'https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
-    github: 'https://github.com/Anurag113-sonu/Social-Media',
-    demo: '#',
-    tags: ['React Native', 'Node.js', 'QR Code'],
+    title: 'Memory-game',
+    description: 'A fun and interactive memory game that challenges players to match pairs',
+    image: 'game.png',
+    github: 'https://github.com/Anurag113-sonu/Memory-game',
+    demo: 'https://memory-game-theta-three-85.vercel.app/',
+    tags: ['React Native', 'Node.js', ],
   },
   // {
   //   title: 'CV Builder',
@@ -47,6 +47,14 @@ const projects = [
     title: 'MyPortfolio',
     description: 'A personal portfolio website showcasing projects, skills, and achievements with a modern responsive design.',
     image: 'image copy.png', // add your screenshot in public folder
+    github: 'https://github.com/RudraP2004/MyPortfolio',
+    demo: '#', // put your live portfolio link here if deployed
+    tags: ['React', 'Tailwind CSS', 'Framer Motion'],
+  },
+  {
+    title: 'My-Drop',
+    description: ' Share Anything Instantly.Create temporary spaces to share files, text, and URLs with anyone. No registration required.',
+    image: 'mydrop.png', // add your screenshot in public folder
     github: 'https://github.com/RudraP2004/MyPortfolio',
     demo: '#', // put your live portfolio link here if deployed
     tags: ['React', 'Tailwind CSS', 'Framer Motion'],
